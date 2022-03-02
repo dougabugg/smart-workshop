@@ -4,3 +4,9 @@ Oh, also a text-based bot for Slack.
 
 # TODO
 *everything*
+
+# Resources
+For future development reference.
+- https://api.slack.com/admins
+- https://api.slack.com/authentication/sign-in-with-slack
+
